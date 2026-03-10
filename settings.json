@@ -8,7 +8,7 @@
   "server": {
     "ip": "severgaysmp.aternos.me",
     "port": 13287,
-    "version": ""
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
